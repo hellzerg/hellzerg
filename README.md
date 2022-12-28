@@ -1,6 +1,5 @@
 ### Love, work and knowledge are the wellsprings of our lives, they should also govern it.
 
-#### Skills
 ![](https://img.shields.io/badge/OS-Windows-blueviolet?style=for-the-badge&logo=windows)
 ![](https://img.shields.io/badge/OS-Linux-blueviolet?style=for-the-badge&logo=linux)
 
@@ -23,4 +22,3 @@
 
 ![](https://img.shields.io/badge/Tool-Git-blueviolet?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/Tool-Postman-blueviolet?style=for-the-badge&logo=postman)
-
